@@ -1,0 +1,125 @@
+﻿capital = 9
+
+oob = "CZE_1936"
+
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_support = 1
+	tech_recon = 1
+	tech_mountaineers = 1
+	gw_artillery = 1
+	gwtank = 1
+	basic_light_tank = 1
+	improved_light_tank = 1
+	interwar_antiair = 1
+	early_fighter = 1
+	early_bomber = 1
+	CAS1 = 1
+	fuel_silos = 1
+}
+
+set_research_slots = 3
+
+set_politics = {
+	ruling_party = pavelism
+	last_election = "1935.5.19"
+	election_frequency = 60
+	elections_allowed = no
+}
+
+set_popularities = {
+	kimberlyism = 25
+	jakobism = 20
+	pavelism = 45
+	rockyism = 10
+}
+
+create_country_leader = {
+	name = "Pav"
+	desc = "POLITICS_EDVARD_BENES_DESC"
+	picture = "Portrait_Czech_Edvard_Benes.dds" #work on this#
+	expire = "1965.1.1"
+	ideology = pavelist
+	traits = {
+		dad
+	}
+}
+
+create_country_leader = {
+	name = "Rocky"
+	desc = "POLITICS_EDVARD_BENES_DESC"
+	picture = "Portrait_Czech_Edvard_Benes.dds" #work on this#
+	expire = "1965.1.1"
+	ideology = rockyist
+	traits = {
+		brutal_dictator
+	}
+}
+
+create_country_leader = {
+	name = "Kimberly Jong Un"
+	desc = "POLITICS_JAROSLAV_KREJCI_DESC"
+	picture = "Portrait_Czech_Jaroslav_Krejci.dds" #work on this#
+	expire = "1965.1.1"
+	ideology = kimberlyist
+	traits = {
+		#
+	}
+}
+
+create_country_leader = {
+	name = "Jakob"
+	desc = "POLITICS_KLEMENT_GOTTWALD_DESC"
+	picture = "Portrait_Czech_Klement_Gottwald.dds" #work on this#
+	expire = "1965.1.1"
+	ideology = stalinism
+	traits = {
+		#
+	}
+}
+
+create_field_marshal = {
+	name = "Rocky"
+	gfx = "GFX_Portrait_czechoslovakia_vojtech_luza" #work on this#
+	traits = { fast_planner offensive_doctrine }
+	skill = 3
+    attack_skill = 4
+    defense_skill = 2
+    planning_skill = 3
+    logistics_skill = 1
+}
+
+create_field_marshal = {
+	name = "Kim"
+	gfx = "GFX_Portrait_czechoslovakia_josef_snejdarek" #work on this#
+	traits = { thorough_planner defensive_doctrine }
+	skill = 3
+    attack_skill = 3
+    defense_skill = 4
+    planning_skill = 2
+    logistics_skill = 1
+}
+
+create_corps_commander = {
+	name = "Richard Tesařík"
+	gfx = "GFX_Portrait_czechoslovakia_richard_tesarik" #work on this#
+	traits = { armor_officer }
+	skill = 2
+    attack_skill = 4
+    defense_skill = 1
+    planning_skill = 1
+    logistics_skill = 1
+}
+
+create_corps_commander = {
+	name = "Sergej Vojcechovský"
+	gfx = "GFX_Portrait_czechoslovakia_sergej_vojcechovsky" #work on this#
+	traits = { winter_specialist }
+	skill = 3
+    attack_skill = 4
+    defense_skill = 3
+    planning_skill = 2
+    logistics_skill = 1
+}
+

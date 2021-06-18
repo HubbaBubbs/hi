@@ -1,0 +1,851 @@
+tag ger
+tag brg
+tag hgr
+tag ufa
+tdebug
+tag bkr
+tdebug
+tag tar
+tdebug
+tag bri
+tdebug
+tag brt
+focus.nochecks
+tdebug
+tag smc
+debug
+debgug
+debug
+tdebug
+tag smc
+tag nov
+tdebug
+tag sru
+tdebug
+tag spa
+tdebug
+isr
+tag isr
+tag phi
+
+tag smc
+tag man
+tdebug
+tag asc
+tdebug
+tag asc
+tdebug
+tag amc
+tag acs
+tag asc
+tag afg
+tag par
+tag bol
+tag par
+tag bol
+tag par
+tag bol
+tag par
+tag hgr
+tag ger
+tag fra
+tag pol
+tag srb
+tag ser
+tag pol
+tag ser
+tag pol
+tag rus
+tag sov
+tag pol
+tag fra
+tag pol
+tdebug
+tag d01
+tdebug
+tag spa
+tag d02
+tdebug
+tag spr
+tdebug
+tag tur
+tdebug
+tag trk
+tdebug
+tag trk
+tag tsr
+tdebug
+tag tra
+tdebug
+tag trk
+tdebug
+tag d02
+tdebug
+tag d02
+tag fra
+tag pol
+tag trk
+tdebug
+tag ddr
+tdebug
+annex ger
+tdebug
+annex hgr
+tdebug
+tag ser
+tag ger
+tdebug
+debug
+pp(fuhrer_mana, political_power) [2000]
+help
+add_political_power = 2000
+pp [2000]
+pp [1000]
+pp [200]
+pp [ 20]
+debug
+pp [99]
+pp[1]
+pp [1]
+fuhrer_mana
+debug
+fuhrer_mana
+decision_NoChecks
+tag uac
+tag usa
+allowdiplo
+tag kau
+tdebug
+tag rka
+occupationpaint
+tag ger
+tag hss
+occupationpaint
+tag rka
+tag hss
+occupationpaint
+tdebug
+tag sov
+focus.nochecks
+tag hss
+tag rom
+tag hss
+tag fin
+tag hss
+focus.nochecks
+tag fin
+tag hss
+tag mos
+tag rkm
+tb=debug
+tdebug
+tag rmo
+tag rka
+tag hss
+tdebug
+allowdiplo
+annex sov
+
+tdebug
+annex sis
+tdebug
+annex usa
+annex gbr
+annex eng
+annex ire
+tag fin
+occupTIONPAINT
+occupationpaint
+annex ger
+annex hss
+tag aus
+tag tur
+tdebug
+tag ott
+tdebug
+tag aus
+tag ott
+tag aus
+annex ser
+annex bul
+annex rom
+tag ott
+tag aus
+annex gre
+tag ott
+tag cos
+national_populist
+tag ott
+tag uls
+annex ire
+tag ott
+tag one
+tag vyt
+tdebug
+tag vty
+tdebug
+tag fin
+tag vty
+annex syk
+annex kom
+tebug
+tdebug
+annex nik
+tdebug
+
+annex ore
+annex oms
+annex bel
+tdebug
+annex url
+tdebug
+annex kem
+annex irk
+annex pav
+tdebug
+annex don
+annex sem
+tdebug
+tag fra
+tag cze
+tag fra
+tag cze
+tag fra
+tag spa
+tdebug
+tag d01
+tdebug
+tag sfg
+tdebug
+tedbug
+tdebug
+tag sfg
+tdebug
+annex boe
+tdebug
+annex bor
+annex saf
+annex lth
+annex cdl
+annex swz
+tag mzb
+tdebug
+tag zla
+tdbeug
+tdebug
+tag udm
+tdebug
+tag mus
+tag mos
+tag wal
+tdebug
+tag bsb
+tdebug
+allowdiplo
+tag sov
+tag ark
+tdebug
+tag wrs
+tdebug
+tag bsb
+tag cam
+set_ruling_party [authoritarian_socialism]
+set_ruling_party [authsoc]
+set_ruling_party [communist]
+set_ruling_party [communism]
+set_ruling_party ["communist"
+communist
+authoritarian_socialism
+set_ruling_party communist
+tag yun
+tag ita
+set_ruling_party burgundian_system
+tag cze
+set_ruling_party burgundian_system
+set_ruling_party conservative_democracy
+set_ruling_party market_conservative
+set_ruling_party social_conservative
+set_ruling_party fascist
+set_ruling_party fascism
+annex man
+focus.nochecks
+focus.autocomplete
+allowdiplo
+annex men
+tdebug
+tag spa
+annex spr
+tag fra
+tdebug
+fuhrer_mana
+allowdiplo
+annex ger
+annex uk
+annex gbr
+tdebug
+annex eng
+tdebug
+annex bra
+annex zan
+annex sib
+tdebug
+annex swf
+annex alt
+annex aus
+annex hun
+annex wrt
+annex ire
+annex mal
+annexy egy
+annex egy
+annex ast
+annex was
+annex waf
+annex can
+annex cub
+annex oma
+annex yem
+annex mad
+annex cey
+annex nze
+annex saf
+annex ira
+annex irq
+annex lux
+annex nzl
+tdebug
+tag rhi
+occupationpaint
+tag fra
+tdebug
+occupationpaint
+observe
+tag mol
+
+observe
+tag fra
+annex lux
+observe
+tag swi
+tag aus
+tag swi
+tag aus
+allowdiplo
+tag swi
+tdebug
+tag ita
+allowdiplo
+tag swi
+tdebug
+allowdiplo
+tag ger
+snnex fra
+annex fra
+annex eng
+tag alb
+tag swi
+decision.nochecks
+decisions.nochecks
+decision.nochecks
+tag omo
+tag kam
+tdebug
+tag kmc
+tdebug
+tag omo
+tag kmc
+decision.nochecks
+tag omo
+tag kmc
+tag omo
+tag kmc
+tag omo
+tag kmc
+tag omo
+tag kmc
+tag omo
+tag kmc
+tag omo
+tag kmc
+tag jap
+tag ost
+tag jap
+tag ost
+tdebug
+tag mst
+tdebug
+tag jap
+annex tai
+fuhrer_mana
+annex can
+annex aus
+tdebug
+annex ast
+tdebug
+tdebu
+tdebug
+tag chi
+tdebug
+tag xin
+tdebug
+tag ets
+tdebug
+tag rus
+tag mon
+tag fra
+tag mon
+tag rus
+tag mon
+tag rus
+tag mon
+tag rus
+tag mon
+tag rus
+tag mon
+tag rus
+tag mon
+tag aus
+allowdiplo
+tag mon
+tag aus
+tag hun
+tag mon
+tag gal
+tag cro
+allowdiplo
+tag mon
+
+tag nov
+tdebug
+tag dkb
+allowdiplo
+tag mon
+tag ken
+tdebug
+tag kik
+tdebug
+tag alg
+tdebug
+tag nfa
+tdebug
+xp 100
+tag aus
+allowdiplo
+tag nfa
+tag ita
+allowdiplo
+tag fna
+tag fnl
+tdebug
+tag nfa
+tdebug
+annex srb
+annex ser
+occupationpaint
+tag ser
+tag ger
+allowdiplo
+tag ita
+tag ger
+tag ukr
+tdebug
+annex fuk
+tag ger
+tdebug
+tag ggr
+tdebug
+tag ger
+tag cze
+tag rom
+
+tag cze
+tag rom
+tag cze
+tag rom
+tag cze
+tag rom
+tag cze
+tag rom
+
+tag cze
+observe
+set_ruling_party accelerationism
+tag ind
+tdebug
+tag upi
+tdebug
+tag guy
+tag usa
+tag guy
+tag usa
+tag guy
+tag usa
+tag brg
+tag usa
+tag brg
+tag usa
+tag brg
+
+tag usa
+tag brg
+tag usa
+tag brg
+
+tag usa
+tag brg
+
+tag usa
+tag ger
+tag usa
+tag ger
+tag usa
+tag ger
+tag usa
+tag jap
+tag usa
+tag jap
+tag usa
+tag jap
+tag usa
+decisions.nochecks
+decision_nochecks
+decisions_nochecks
+decision.nochecks
+tag ger
+tag usa
+tag jap
+tag usa
+
+tag jap
+tag usa
+
+tag jap
+tag usa
+tag jap
+tag usa
+tag jap
+tag usa
+tag jap
+tag usa
+
+fuhrer_mana
+tag ger
+tag usa
+usa.1705
+event_id USA.1705
+event usa.1705
+set_ruling_party accelerationist
+set_ruling_party accelerationism
+allowdiplo
+ttdebug
+tdebug
+tag nor
+tdebug
+tag usa
+
+tdebug
+tag mzb
+tdebug
+tag mzb
+tdebug
+annex gaz
+annex rmb
+annex zam
+annex ktg
+annex cfs
+annex tnz
+annex brd
+annex rwa
+annex ugd
+annex gab
+annex caf
+annex ang
+annex luo
+fuhrer_mana
+tag bsb
+tdebug
+tag bbb
+tdebug
+annex pet
+tdebug
+tag usa
+tdebug
+tag wch
+tdebug
+tag usa
+tag wch
+tag usa
+tag wch
+tag usa
+tag wch
+tag usa
+tag wch
+tag usa
+tag pol
+set_ruling_party ultranat
+set_ruling_party ultranationalism
+set_ruling_party ultranationalist
+set_ruling_party Ultranationalism
+set_ruling_ideology ultranationalism
+set_ruling_party ultranational_socialism
+set_ruling_party socialist
+set_ruling_party communist
+set_ruling_party social_democrat
+set_ruling_party despotism
+set_ruling_party authoritarian_democrat
+tag ger
+set_ruling_party communist
+set_ruling_party national_socialism
+tag bra
+focus.nochecks
+focus.autocomplete
+focus.nochecks
+tdebug
+annex han
+tdebug
+observe
+event ustates.998
+tdebug
+tag cal
+tdebug
+tag cor
+tdebug
+tag egy
+tag tur
+tdebug
+tag ott
+tdebug
+tag cze
+
+set_ruling_party national_populist
+tag fra
+tag spa
+tdebug
+tag spr
+tdebug
+tag usa
+tag ger
+tag bra
+tag ger
+tag usa
+tag ger
+tag ita
+tag ger
+tdebug
+tag cro
+tag hun
+tag ger
+tdebug
+tag usa
+tag ger
+tag usa
+tag ger
+tag usa
+tag ger
+tag usa
+tag ger
+tag usa
+tag ger
+tag usa
+tag ger
+tag ita
+tdebug
+tag kit
+tag ger
+tag usa
+tag ger
+tag usa
+tag ger
+tag usa
+tag ger
+
+tag ita
+tag kit
+taebug
+tebug
+tdebug
+tag ger
+tag kit
+tag ger
+tag usa
+tag ger
+tag ita
+tag kit
+tag ger
+tag usa
+tag kit
+tag ger
+tag bri
+tag brt
+tdebug
+tag eng
+tdebug
+tag ger
+tag kit
+tag ger
+tag kit
+tag ger
+tag usa
+tag ger
+tag usa
+tag ger
+tag kit
+tag ger
+tag eng
+tag ger
+tag kit
+tag usa
+tag ger
+tag eng
+tag usa
+tag ger
+tag usa
+tag ger
+tag rus
+tdebug
+tag sov
+tag ger
+tdebug
+tag sov
+tag ger
+tag kit
+fuhrer_mana
+tag ger
+tag usa
+tag bri
+tag eng
+tag ger
+tag usa
+tag bri
+tag eng
+tag ger
+tag sov
+tag ger
+tag usa
+tag ger
+tag usa
+tag ger
+tag eng
+tag ger
+tag usa
+tag ger
+tag prc
+tag chi
+decision.nochecks
+tag chi
+tag jap
+tdebug
+tag gxc
+tag chi
+tdebug
+tag par
+set_ruling_party burgundian_system
+tag uru
+tdebug
+tag urg
+tdebug
+set_ruling_party socialism
+set_ruling_party socialist
+set_ruling_party communist
+set_ruling_party conservative_democrat
+set_ruling_party conservative_democracy
+tag arg
+set_ruling_party communist
+set_ruling_party burgundian_system
+tdebug
+tag gms
+tdebug
+set_ruling_party burgundian_system
+tag srb
+tag ser
+set_ruling_party communist
+tag kom
+tag syk
+tdebug
+tag nik
+tdebug
+tag ind
+tdebug
+tag ins
+tdebug
+tag nik
+tdebug
+tag ins
+tag nik
+tag ins
+tag nik
+tag ins
+tag nik
+tag ins
+tag nik
+tag ins
+tag nik
+tag ins
+tag nik
+tag ins
+tag nik
+tag ins
+tag nik
+tag ins
+tag nik
+tag ins
+tag nik
+tag ins
+tag nik
+tag ins
+tag nik
+tag ins
+tag nik
+tag ins
+tag nik
+tag ins
+
+tag nik
+tag ins
+tag nik
+tag ins
+tag nik
+tag ins
+tag nik
+tag ins
+tag nik
+tag ins
+tag nik
+tag ins
+tag nik
+tag ins
+tag nik
+tag ins
+tag nik
+tag ins
+tag nik
+tag ins
+tag nik
+tag ins
+tag nik
+tag ins
+tag nik
+tag ins
+tag nik
+tag ins
+tag nik
+tag ins
+tag nik
+tag ins
+tag nik
+tdebug
+tag fri
+tdebug
+tag nik
+tag eng
+tag mon
+tdebug
+tag mnt
+tdebug
+allowdiplo
+allowdilpo
+allowdiplo
+tag ger
+tag ott
+tag aus
+tag bul
