@@ -1,9 +1,0 @@
-name = "Poland: United and Ready"
-archive = "dlc/dlc002_polish_content_pack/dlc002.zip"
-steam_id = "460600"
-pops_id = "hoi4_dlc002_polish_content_pack"
-affects_checksum = no
-affects_compatability = no
-checksum = "eedaf05f2ba6bd0ae63883425c4c0a38"
-third_party_content = no
-category = "content"

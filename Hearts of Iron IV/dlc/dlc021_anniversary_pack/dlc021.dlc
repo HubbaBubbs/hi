@@ -1,9 +1,0 @@
-name = "Anniversary Pack"
-archive = "dlc/dlc021_anniversary_pack/dlc021.zip"
-steam_id = "642010"
-pops_id = "hoi4_dlc021_anniversary_pack"
-affects_checksum = no
-affects_compatability = no
-checksum = "e2671fcd731da8feaad2f1751170e45e"
-third_party_content = no
-category = "content"
