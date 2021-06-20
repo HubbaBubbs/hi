@@ -49,7 +49,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Rocky"
 	desc = "POLITICS_EDVARD_BENES_DESC"
-	picture = "Portrait_Czech_Edvard_Benes.dds" #work on this#
+	picture = "Portrait_Czech_Rocky.dds" #work on this#
 	expire = "1965.1.1"
 	ideology = rockyist
 	traits = {
@@ -84,8 +84,8 @@ create_field_marshal = {
 	gfx = "GFX_Portrait_czechoslovakia_vojtech_luza" #work on this#
 	traits = { fast_planner offensive_doctrine }
 	skill = 3
-    attack_skill = 4
-    defense_skill = 2
+    attack_skill = 5
+    defense_skill = 5
     planning_skill = 3
     logistics_skill = 1
 }
@@ -96,29 +96,29 @@ create_field_marshal = {
 	traits = { thorough_planner defensive_doctrine }
 	skill = 3
     attack_skill = 3
-    defense_skill = 4
+    defense_skill = 5
     planning_skill = 2
     logistics_skill = 1
 }
 
 create_corps_commander = {
-	name = "Richard Tesařík"
+	name = "General Pavel"
 	gfx = "GFX_Portrait_czechoslovakia_richard_tesarik" #work on this#
 	traits = { armor_officer }
 	skill = 2
     attack_skill = 4
-    defense_skill = 1
+    defense_skill = 5
     planning_skill = 1
     logistics_skill = 1
 }
 
 create_corps_commander = {
-	name = "Sergej Vojcechovský"
+	name = "Sergeant Jakob"
 	gfx = "GFX_Portrait_czechoslovakia_sergej_vojcechovsky" #work on this#
 	traits = { winter_specialist }
 	skill = 3
     attack_skill = 4
-    defense_skill = 3
+    defense_skill = 5
     planning_skill = 2
     logistics_skill = 1
 }
